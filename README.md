@@ -1,2 +1,2 @@
 # MCFS
-Codes of the MCFS algorithm
+The MATLAB codes for the MCFS algorithm (ykui713@gmail.com)
